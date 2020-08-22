@@ -10,3 +10,6 @@ hugo.linux
 
 # WSL related file Identifier
 *.Identifier
+
+# vscode files
+.vscode/
