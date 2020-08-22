@@ -1,7 +1,7 @@
 +++
 title = "Introduction To Linux"
 date = 2020-08-18T17:04:25+04:00
-weight = 1
+weight = 2
 chapter = true
 pre = "<b></b>"
 +++
