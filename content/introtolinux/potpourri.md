@@ -4,9 +4,6 @@ date =  2020-08-24T13:43:18+04:00
 weight = 14
 +++
 
-### Table of Contents
-
-- [Table of Contents](#table-of-contents)
 - [Keyboard remapping](#keyboard-remapping)
 - [Daemons](#daemons)
 - [FUSE](#fuse)
