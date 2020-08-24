@@ -28,6 +28,7 @@ Theme Docs: [learn.netlify.app](https://learn.netlify.app/)
 
 Changelog
 - Added new theme
+- Added IntroToLinux Section [24 Aug, 2020]
 
 ----
 Hw Tech Club Documentation We mention here all our procedures on how we run different aspects.
