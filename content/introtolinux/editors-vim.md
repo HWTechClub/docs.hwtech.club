@@ -258,17 +258,12 @@ you want to turn on.
 
 We are providing a well-documented basic config that you can use as a starting
 point. We recommend using this because it fixes some of Vim's quirky default
-behavior. **Download our config [here](/2020/files/vimrc) and save it to
+behavior. **Download our config [here](/static/files/introtolinux/editors-vim/vimrc) and save it to
 `~/.vimrc`.**
 
 Vim is heavily customizable, and it's worth spending time exploring
 customization options. You can look at people's dotfiles on GitHub for
-inspiration, for example, your instructors' Vim configs
-([Anish](https://github.com/anishathalye/dotfiles/blob/master/vimrc),
-[Jon](https://github.com/jonhoo/configs/blob/master/editor/.config/nvim/init.vim) (uses [neovim](https://neovim.io/)),
-[Jose](https://github.com/JJGO/dotfiles/blob/master/vim/.vimrc)). There are
-lots of good blog posts on this topic too. Try not to copy-and-paste people's
-full configuration, but read it, understand it, and take what you need.
+inspiration.
 
 ### Extending Vim
 
@@ -285,11 +280,7 @@ Here are some of our favorite plugins:
 - [nerdtree](https://github.com/scrooloose/nerdtree): file explorer
 - [vim-easymotion](https://github.com/easymotion/vim-easymotion): magic motions
 
-We're trying to avoid giving an overwhelmingly long list of plugins here. You
-can check out the instructors' dotfiles
-([Anish](https://github.com/anishathalye/dotfiles),
-[Jon](https://github.com/jonhoo/configs),
-[Jose](https://github.com/JJGO/dotfiles)) to see what other plugins we use.
+We're trying to avoid giving an overwhelmingly long list of plugins here.
 Check out [Vim Awesome](https://vimawesome.com/) for more awesome Vim plugins.
 There are also tons of blog posts on this topic: just search for "best Vim
 plugins".
@@ -361,7 +352,7 @@ better way of doing this", there probably is: look it up online.
     - first clear the macro with `q{character}q`
     - record the macro, with `@{character}` to invoke the macro recursively
     (will be a no-op until recording is complete)
-- Example: convert xml to json ([file](/2020/files/example-data.xml))
+- Example: convert xml to json ([file](/static/files/introtolinux/editors-vim/example-data.xml))
     - Array of objects with keys "name" / "email"
     - Use a Python program?
     - Use sed / regexes
